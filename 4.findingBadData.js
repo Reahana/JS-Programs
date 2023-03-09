@@ -1,3 +1,8 @@
+ /* This function will take an number of array as input
+ Find the total number of bad data (negative number) from 
+ the given array
+ */
+
  function findingBadData(numbers){
     if(Array.isArray(numbers)){
         let badData = 0;
